@@ -71,7 +71,6 @@
     return L.divIcon({
       html,
       className: "map-marker",
-      width: 200,
     });
   }
 </script>
